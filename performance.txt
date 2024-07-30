@@ -1,0 +1,6 @@
+Performance is crucial in a Flutter app, yet often overlooked.
+It involves efficient CPU usage, component rendering, event handling, and memory leak detection.
+Key strategies include using DevTools to analyse CPU usage and request timings, and disposing of controllers to prevent memory leaks.
+Minimise rebuilds with the const keyword, use efficient state management, and avoid large image sizes by utilising tools like Lottie.
+For large datasets, implement pagination, and optimise local storage use. 
+Ensure secure communication through certificate pinning.
